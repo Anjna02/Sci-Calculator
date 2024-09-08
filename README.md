@@ -1,13 +1,3 @@
-# Scientific Calculator
-
-A web-based scientific calculator built using React.
-
-# Demo
-https://scientificalculatoronline.netlify.app/
-
-## Screenshot
-
-![Scientific Calculator](https://i.postimg.cc/1R74ZxSG/Scientific-Calculator.png)
 
 ## Features
 
@@ -19,7 +9,7 @@ https://scientificalculatoronline.netlify.app/
 
 - Clone the repository:
 ```bash
-   git clone https://github.com/mujtabamohamed/scientific-calculator.git
+   git clone https://github.com/Anjna02/Sci-Calculator.git
 ```
 
 - Navigate to the project directory:
